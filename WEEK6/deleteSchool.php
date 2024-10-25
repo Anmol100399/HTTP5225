@@ -34,7 +34,7 @@
       </div>
       <div class="row">
         <div class="col-md-5">
-          <form method="POST" action="includes/deleteScript.php">
+          <form method="POST" action="includes/deleteSchool.php">
             <input type="hidden" name="schoolID" value="<?php echo $schoolID; ?>">
             <button type="submit" class="btn btn-danger" name="deleteSchool">Delete</button>
             <a href="index.php" class="btn btn-secondary">Cancel</a>
