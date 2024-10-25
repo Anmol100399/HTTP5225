@@ -35,7 +35,7 @@
     </div>
     <div class="row">
       <div class="col-md-5">
-      <form method="POST" action="includes/updateScript.php">
+      <form method="POST" action="includes/updateSchool.php">
         <div class="mb-3">
           <label for="schoolName" class="form-label">School Name</label>
           <input type="text" class="form-control" id="schoolName" name="schoolName"
