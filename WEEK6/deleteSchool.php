@@ -38,7 +38,7 @@
           <form method="POST" action="includes/deleteScript.php">
             <input type="hidden" name="schoolID" value="<?php echo $schoolID; ?>">
             <button type="submit" class="btn btn-danger" name="deleteSchool">Delete</button>
-            <a href="schools.php" class="btn btn-secondary">Cancel</a>
+            <a href="index.php" class="btn btn-secondary">Cancel</a>
           </form>
         </div>
       </div>
