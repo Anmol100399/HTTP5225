@@ -9,7 +9,6 @@
     body {
       background: url(Image/background.jpg);
       background-size: 100% 100%;
-      /* background-color: #343a40; */
       color: white;
       font-family: Arial, sans-serif;
     }
